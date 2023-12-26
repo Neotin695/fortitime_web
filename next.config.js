@@ -9,7 +9,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "api.uzmart.org",
+        hostname: "api.fortitime.com",
         port: "",
         pathname: "/storage/**",
       },
